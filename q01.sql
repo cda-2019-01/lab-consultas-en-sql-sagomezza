@@ -3,4 +3,4 @@
 ## de la tabla tbl1
 ## 
 
-SELECT SUM(C12) FROM tbl1.csv
+SELECT SUM(c12) FROM tbl1
